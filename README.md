@@ -1,6 +1,6 @@
 ## Olá eu sou o Kauan Paschoal, estudante fissurado em programação e tecnologia!
 
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpaschoal-dev&show_icons=true&theme=transparent)
+![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanPaschoal&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
