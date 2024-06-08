@@ -3,7 +3,6 @@
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanPaschoal&show_icons=true&theme=transparent)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanPaschoal&layout=compact&langs_count=8&hide_border=false&border_color=ffffff&title_color=58a6ff&icon_color=79c0ff&text_color=ffffff&bg_color=0d1117" alt="Top Langs" style="width: 419px;" />
-<br>
 [![Teste](https://github-readme-activity-graph.vercel.app/graph?username=KauanPaschoal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
